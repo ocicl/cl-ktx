@@ -4,6 +4,6 @@ An implementation of the Khronos KTX image file format
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/cl-ktx.git |
-| commit  | 22be3e7                                    |
+| commit  | 26c36cc                                    |
 | systems | cl-ktx                                     |
 |---------+--------------------------------------------|
